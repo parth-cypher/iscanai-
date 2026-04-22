@@ -155,7 +155,7 @@ This project is licensed under the [Apache 2.0 License](LICENSE).
 
 **Parth Patil**
 - Hugging Face: [parth888](https://huggingface.co/parth888)
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@parth-cypher](https://github.com/parth-cypher)
 
 ---
 
