@@ -1,0 +1,27 @@
+{
+  "image_size": [
+    224,
+    224
+  ],
+  "class_names": [
+    "Normal",
+    "Cataract"
+  ],
+  "confidence_threshold": 0.5,
+  "source_counts": {
+    "Normal": 47,
+    "Cataract": 101
+  },
+  "train_counts": {
+    "Normal": 190,
+    "Cataract": 300
+  },
+  "val_counts": {
+    "Normal": 30,
+    "Cataract": 30
+  },
+  "epochs_completed": 40,
+  "learning_rate": 5e-05,
+  "val_loss": 0.5725159049034119,
+  "val_accuracy": 0.9333333373069763
+}
